@@ -1,8 +1,14 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/6779d969-b43a-4c16-a9cc-388233e88229)#React Shopping cart task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Task Description:
+Create a shopping cart using React that allows users to add and remove items from the cart.
 
-Currently, two official plugins are available:
+Technologies used:
+HTML
+CSS
+React
+Bootstrap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Sample Output:
+![shopping cart image](https://github.com/user-attachments/assets/365acbf0-3729-4ed4-8aad-773f090f10bb)
